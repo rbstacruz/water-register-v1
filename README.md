@@ -36,7 +36,7 @@ For Water Refilling Station Owners. Registers dispensed water to a counter.
 
 1. Install the ESP8266 driver
 
-    - CH340 USB-UART chip: [Windows](http://www.wch-ic.com/downloads/CH341SER_EXE.html) [Linux](http://www.wch-ic.com/downloads/CH341SER_LINUX_ZIP.html) [Mac](http://www.wch-ic.com/downloads/CH341SER_MAC_ZIP.html) [Sparkfun]((https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#drivers-if-you-need-them))
+    - CH340 USB-UART chip: [Windows](http://www.wch-ic.com/downloads/CH341SER_EXE.html) [Linux](http://www.wch-ic.com/downloads/CH341SER_LINUX_ZIP.html) [Mac](http://www.wch-ic.com/downloads/CH341SER_MAC_ZIP.html) [Sparkfun](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#drivers-if-you-need-them)
 
     - CP2104 chip: [Silabs](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
@@ -69,6 +69,7 @@ For Water Refilling Station Owners. Registers dispensed water to a counter.
     - main.py
     - constant.py
     - config.json
+6. Reset your esp8266
 
 ## Additional Info
 
